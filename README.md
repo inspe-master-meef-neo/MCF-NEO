@@ -1,2 +1,2 @@
 # MCF
- Moodle Competency Framework
+Competency Framework
