@@ -1,0 +1,614 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,MIPF,Master Ingenierie Pédagogique et de la Formation,,,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,MIPF-C1,🔴✊ ANALYSER,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cc0000;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd>✊ <strong>COMP&Eacute;TENCE</strong></kbd><br><strong>ANALYSER</strong> des besoins de formation</p>
+</div>
+</div>
+<div class=""alert alert-warning"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... qui comprend des qualit&eacute;s, des crit&egrave;res d'exigences observables ..."">🔩 Composantes essentielles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>en </strong>...</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... dans des contextes ou familles de situations..."">💼 Situations professionnelles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-success"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... La comp&eacute;tence
+est fondamentalement un
+savoir-agir mobilisant et
+articulant des connaissances
+et autres ressources en vue
+de r&eacute;soudre un probl&egrave;me
+rencontr&eacute; en situation."">📚 Connaissances</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<table style=""border-collapse: collapse; width: 100%; height: 71.5938px; background-color: #000000; margin-left: auto; margin-right: auto; border: 3px none #000000;"" border=""1"">
+<tbody>
+<tr style=""height: 44.5938px;"">
+<th style=""border-color: #000000; text-align: right; border-width: 3px; padding: 3px;"" colspan=""4"">
+<h3 style=""text-align: center;""><span style=""font-size: 18pt; color: #ffffff;"">NIVEAU D'ACQUISITION</span></h3>
+</th>
+</tr>
+<tr style=""height: 27px;"">
+<td style=""border-color: #000000; text-align: center; background-color: #ffcfc9; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">0️⃣ <kbd><strong>Non acquis</strong></kbd>&nbsp;<code>❌❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #ffc8aa; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">1️⃣&nbsp;<kbd><strong>Insuffisant</strong></kbd>&nbsp;<code>❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #d4edbc; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">2️⃣ <kbd><strong>Acquis</strong></kbd>&nbsp;<code>✅</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #e6cff2; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p><span style=""font-size: 10pt;"">3️⃣&nbsp;<kbd><strong>Ma&icirc;tris&eacute;</strong></kbd>&nbsp;<code>✅✅</code></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,MIPF-C2,🟠✊ C2,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #e69138;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd>✊ <strong>COMP&Eacute;TENCE</strong></kbd><br><strong>VERBRE D'ACTION</strong></p>
+</div>
+</div>
+<div class=""alert alert-warning"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... qui comprend des qualit&eacute;s, des crit&egrave;res d'exigences observables ..."">🔩 Composantes essentielles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>en </strong>...</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... dans des contextes ou familles de situations..."">💼 Situations professionnelles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-success"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... La comp&eacute;tence
+est fondamentalement un
+savoir-agir mobilisant et
+articulant des connaissances
+et autres ressources en vue
+de r&eacute;soudre un probl&egrave;me
+rencontr&eacute; en situation."">📚 Connaissances</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<table style=""border-collapse: collapse; width: 100%; height: 71.5938px; background-color: #000000; margin-left: auto; margin-right: auto; border: 3px none #000000;"" border=""1"">
+<tbody>
+<tr style=""height: 44.5938px;"">
+<th style=""border-color: #000000; text-align: right; border-width: 3px; padding: 3px;"" colspan=""4"">
+<h3 style=""text-align: center;""><span style=""font-size: 18pt; color: #ffffff;"">NIVEAU D'ACQUISITION</span></h3>
+</th>
+</tr>
+<tr style=""height: 27px;"">
+<td style=""border-color: #000000; text-align: center; background-color: #ffcfc9; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">0️⃣ <kbd><strong>Non acquis</strong></kbd>&nbsp;<code>❌❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #ffc8aa; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">1️⃣&nbsp;<kbd><strong>Insuffisant</strong></kbd>&nbsp;<code>❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #d4edbc; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">2️⃣ <kbd><strong>Acquis</strong></kbd>&nbsp;<code>✅</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #e6cff2; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p><span style=""font-size: 10pt;"">3️⃣&nbsp;<kbd><strong>Ma&icirc;tris&eacute;</strong></kbd>&nbsp;<code>✅✅</code></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,MIPF-C3,🟡✊ C3,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #f1c232;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd>✊ <strong>COMP&Eacute;TENCE</strong></kbd><br><strong>VERBRE D'ACTION</strong></p>
+</div>
+</div>
+<div class=""alert alert-warning"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... qui comprend des qualit&eacute;s, des crit&egrave;res d'exigences observables ..."">🔩 Composantes essentielles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>en </strong>...</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... dans des contextes ou familles de situations..."">💼 Situations professionnelles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-success"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... La comp&eacute;tence
+est fondamentalement un
+savoir-agir mobilisant et
+articulant des connaissances
+et autres ressources en vue
+de r&eacute;soudre un probl&egrave;me
+rencontr&eacute; en situation."">📚 Connaissances</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<table style=""border-collapse: collapse; width: 100%; height: 71.5938px; background-color: #000000; margin-left: auto; margin-right: auto; border: 3px none #000000;"" border=""1"">
+<tbody>
+<tr style=""height: 44.5938px;"">
+<th style=""border-color: #000000; text-align: right; border-width: 3px; padding: 3px;"" colspan=""4"">
+<h3 style=""text-align: center;""><span style=""font-size: 18pt; color: #ffffff;"">NIVEAU D'ACQUISITION</span></h3>
+</th>
+</tr>
+<tr style=""height: 27px;"">
+<td style=""border-color: #000000; text-align: center; background-color: #ffcfc9; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">0️⃣ <kbd><strong>Non acquis</strong></kbd>&nbsp;<code>❌❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #ffc8aa; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">1️⃣&nbsp;<kbd><strong>Insuffisant</strong></kbd>&nbsp;<code>❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #d4edbc; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">2️⃣ <kbd><strong>Acquis</strong></kbd>&nbsp;<code>✅</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #e6cff2; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p><span style=""font-size: 10pt;"">3️⃣&nbsp;<kbd><strong>Ma&icirc;tris&eacute;</strong></kbd>&nbsp;<code>✅✅</code></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,MIPF-C4,🟢✊ C4,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #6aa84f;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd>✊ <strong>COMP&Eacute;TENCE</strong></kbd><br><strong>VERBRE D'ACTION</strong></p>
+</div>
+</div>
+<div class=""alert alert-warning"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... qui comprend des qualit&eacute;s, des crit&egrave;res d'exigences observables ..."">🔩 Composantes essentielles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>en </strong>...</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... dans des contextes ou familles de situations..."">💼 Situations professionnelles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-success"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... La comp&eacute;tence
+est fondamentalement un
+savoir-agir mobilisant et
+articulant des connaissances
+et autres ressources en vue
+de r&eacute;soudre un probl&egrave;me
+rencontr&eacute; en situation."">📚 Connaissances</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<table style=""border-collapse: collapse; width: 100%; height: 71.5938px; background-color: #000000; margin-left: auto; margin-right: auto; border: 3px none #000000;"" border=""1"">
+<tbody>
+<tr style=""height: 44.5938px;"">
+<th style=""border-color: #000000; text-align: right; border-width: 3px; padding: 3px;"" colspan=""4"">
+<h3 style=""text-align: center;""><span style=""font-size: 18pt; color: #ffffff;"">NIVEAU D'ACQUISITION</span></h3>
+</th>
+</tr>
+<tr style=""height: 27px;"">
+<td style=""border-color: #000000; text-align: center; background-color: #ffcfc9; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">0️⃣ <kbd><strong>Non acquis</strong></kbd>&nbsp;<code>❌❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #ffc8aa; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">1️⃣&nbsp;<kbd><strong>Insuffisant</strong></kbd>&nbsp;<code>❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #d4edbc; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">2️⃣ <kbd><strong>Acquis</strong></kbd>&nbsp;<code>✅</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #e6cff2; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p><span style=""font-size: 10pt;"">3️⃣&nbsp;<kbd><strong>Ma&icirc;tris&eacute;</strong></kbd>&nbsp;<code>✅✅</code></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,MIPF-C5,🔵✊ C5,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #3c78d8;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd>✊ <strong>COMP&Eacute;TENCE</strong></kbd><br><strong>VERBRE D'ACTION</strong></p>
+</div>
+</div>
+<div class=""alert alert-warning"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... qui comprend des qualit&eacute;s, des crit&egrave;res d'exigences observables ..."">🔩 Composantes essentielles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>en </strong>...</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... dans des contextes ou familles de situations..."">💼 Situations professionnelles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-success"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... La comp&eacute;tence
+est fondamentalement un
+savoir-agir mobilisant et
+articulant des connaissances
+et autres ressources en vue
+de r&eacute;soudre un probl&egrave;me
+rencontr&eacute; en situation."">📚 Connaissances</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<table style=""border-collapse: collapse; width: 100%; height: 71.5938px; background-color: #000000; margin-left: auto; margin-right: auto; border: 3px none #000000;"" border=""1"">
+<tbody>
+<tr style=""height: 44.5938px;"">
+<th style=""border-color: #000000; text-align: right; border-width: 3px; padding: 3px;"" colspan=""4"">
+<h3 style=""text-align: center;""><span style=""font-size: 18pt; color: #ffffff;"">NIVEAU D'ACQUISITION</span></h3>
+</th>
+</tr>
+<tr style=""height: 27px;"">
+<td style=""border-color: #000000; text-align: center; background-color: #ffcfc9; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">0️⃣ <kbd><strong>Non acquis</strong></kbd>&nbsp;<code>❌❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #ffc8aa; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">1️⃣&nbsp;<kbd><strong>Insuffisant</strong></kbd>&nbsp;<code>❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #d4edbc; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">2️⃣ <kbd><strong>Acquis</strong></kbd>&nbsp;<code>✅</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #e6cff2; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p><span style=""font-size: 10pt;"">3️⃣&nbsp;<kbd><strong>Ma&icirc;tris&eacute;</strong></kbd>&nbsp;<code>✅✅</code></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,MIPF-C6,🟣✊ C6,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd>✊ <strong>COMP&Eacute;TENCE</strong></kbd><br><strong>VERBRE D'ACTION</strong></p>
+</div>
+</div>
+<div class=""alert alert-warning"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... qui comprend des qualit&eacute;s, des crit&egrave;res d'exigences observables ..."">🔩 Composantes essentielles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>en </strong>...</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... dans des contextes ou familles de situations..."">💼 Situations professionnelles</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-success"">
+<h1><abbr style=""margin: 0px; padding: 0px; border-top: 0px; border-right: 0px; border-left: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 21px; vertical-align: baseline;"" title=""... La comp&eacute;tence
+est fondamentalement un
+savoir-agir mobilisant et
+articulant des connaissances
+et autres ressources en vue
+de r&eacute;soudre un probl&egrave;me
+rencontr&eacute; en situation."">📚 Connaissances</abbr></h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<table style=""border-collapse: collapse; width: 100%; height: 71.5938px; background-color: #000000; margin-left: auto; margin-right: auto; border: 3px none #000000;"" border=""1"">
+<tbody>
+<tr style=""height: 44.5938px;"">
+<th style=""border-color: #000000; text-align: right; border-width: 3px; padding: 3px;"" colspan=""4"">
+<h3 style=""text-align: center;""><span style=""font-size: 18pt; color: #ffffff;"">NIVEAU D'ACQUISITION</span></h3>
+</th>
+</tr>
+<tr style=""height: 27px;"">
+<td style=""border-color: #000000; text-align: center; background-color: #ffcfc9; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">0️⃣ <kbd><strong>Non acquis</strong></kbd>&nbsp;<code>❌❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #ffc8aa; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">1️⃣&nbsp;<kbd><strong>Insuffisant</strong></kbd>&nbsp;<code>❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #d4edbc; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">2️⃣ <kbd><strong>Acquis</strong></kbd>&nbsp;<code>✅</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #e6cff2; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p><span style=""font-size: 10pt;"">3️⃣&nbsp;<kbd><strong>Ma&icirc;tris&eacute;</strong></kbd>&nbsp;<code>✅✅</code></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+MIPF-C1,MIPF-C1-L1,⭐ L1,,,,,,,,,,,
+MIPF-C1,MIPF-C1-L2,⭐⭐ L2,,,,,,,,,,,
+MIPF-C1,MIPF-C1-L3,⭐⭐⭐ L3,,,,,,,,,,,
+MIPF-C1,MIPF-C1-L4,⭐⭐⭐⭐ L4,,,,,,,,,,,
+MIPF-C2,MIPF-C2-L1,⭐ L1,,,,,,,,,,,
+MIPF-C2,MIPF-C2-L2,⭐⭐ L2,,,,,,,,,,,
+MIPF-C2,MIPF-C2-L3,⭐⭐⭐ L3,,,,,,,,,,,
+MIPF-C2,MIPF-C2-L4,⭐⭐⭐⭐ L4,,,,,,,,,,,
+MIPF-C3,MIPF-C3-L1,⭐ L1,,,,,,,,,,,
+MIPF-C3,MIPF-C3-L2,⭐⭐ L2,,,,,,,,,,,
+MIPF-C3,MIPF-C3-L3,⭐⭐⭐ L3,,,,,,,,,,,
+MIPF-C3,MIPF-C3-L4,⭐⭐⭐⭐ L4,,,,,,,,,,,
+MIPF-C4,MIPF-C4-L1,⭐ L1,,,,,,,,,,,
+MIPF-C4,MIPF-C4-L2,⭐⭐ L2,,,,,,,,,,,
+MIPF-C4,MIPF-C4-L3,⭐⭐⭐ L3,,,,,,,,,,,
+MIPF-C4,MIPF-C4-L4,⭐⭐⭐⭐ L4,,,,,,,,,,,
+MIPF-C5,MIPF-C5-L1,⭐ L1,,,,,,,,,,,
+MIPF-C5,MIPF-C5-L2,⭐⭐ L2,,,,,,,,,,,
+MIPF-C5,MIPF-C5-L3,⭐⭐⭐ L3,,,,,,,,,,,
+MIPF-C5,MIPF-C5-L4,⭐⭐⭐⭐ L4,,,,,,,,,,,
+MIPF-C6,MIPF-C6-L1,⭐ L1,,,,,,,,,,,
+MIPF-C6,MIPF-C6-L2,⭐⭐ L2,,,,,,,,,,,
+MIPF-C6,MIPF-C6-L3,⭐⭐⭐ L3,,,,,,,,,,,
+MIPF-C6,MIPF-C6-L4,⭐⭐⭐⭐ L4,,,,,,,,,,,
+MIPF-C1-L1,MIPF-C1-L1-P1,P1,,,,,,,,,,,
+MIPF-C1-L1,MIPF-C1-L1-P2,P2,,,,,,,,,,,
+MIPF-C1-L1,MIPF-C1-L1-P3,P3,,,,,,,,,,,
+MIPF-C1-L1,MIPF-C1-L1-P4,P4,,,,,,,,,,,
+MIPF-C1-L1,MIPF-C1-L1-P5,P5,,,,,,,,,,,
+MIPF-C1-L1,MIPF-C1-L1-P6,P6,,,,,,,,,,,
+MIPF-C1-L2,MIPF-C1-L2-P1,P1,,,,,,,,,,,
+MIPF-C1-L2,MIPF-C1-L2-P2,P2,,,,,,,,,,,
+MIPF-C1-L2,MIPF-C1-L2-P3,P3,,,,,,,,,,,
+MIPF-C1-L2,MIPF-C1-L2-P4,P4,,,,,,,,,,,
+MIPF-C1-L2,MIPF-C1-L2-P5,P5,,,,,,,,,,,
+MIPF-C1-L2,MIPF-C1-L2-P6,P6,,,,,,,,,,,
+MIPF-C1-L3,MIPF-C1-L3-P1,P1,,,,,,,,,,,
+MIPF-C1-L3,MIPF-C1-L3-P2,P2,,,,,,,,,,,
+MIPF-C1-L3,MIPF-C1-L3-P3,P3,,,,,,,,,,,
+MIPF-C1-L3,MIPF-C1-L3-P4,P4,,,,,,,,,,,
+MIPF-C1-L3,MIPF-C1-L3-P5,P5,,,,,,,,,,,
+MIPF-C1-L3,MIPF-C1-L3-P6,P6,,,,,,,,,,,
+MIPF-C1-L4,MIPF-C1-L4-P1,P1,,,,,,,,,,,
+MIPF-C1-L4,MIPF-C1-L4-P2,P2,,,,,,,,,,,
+MIPF-C1-L4,MIPF-C1-L4-P3,P3,,,,,,,,,,,
+MIPF-C1-L4,MIPF-C1-L4-P4,P4,,,,,,,,,,,
+MIPF-C1-L4,MIPF-C1-L4-P5,P5,,,,,,,,,,,
+MIPF-C1-L4,MIPF-C1-L4-P6,P6,,,,,,,,,,,
+MIPF-C2-L1,MIPF-C2-L1-P1,P1,,,,,,,,,,,
+MIPF-C2-L1,MIPF-C2-L1-P2,P2,,,,,,,,,,,
+MIPF-C2-L1,MIPF-C2-L1-P3,P3,,,,,,,,,,,
+MIPF-C2-L1,MIPF-C2-L1-P4,P4,,,,,,,,,,,
+MIPF-C2-L1,MIPF-C2-L1-P5,P5,,,,,,,,,,,
+MIPF-C2-L1,MIPF-C2-L1-P6,P6,,,,,,,,,,,
+MIPF-C2-L2,MIPF-C2-L2-P1,P1,,,,,,,,,,,
+MIPF-C2-L2,MIPF-C2-L2-P2,P2,,,,,,,,,,,
+MIPF-C2-L2,MIPF-C2-L2-P3,P3,,,,,,,,,,,
+MIPF-C2-L2,MIPF-C2-L2-P4,P4,,,,,,,,,,,
+MIPF-C2-L2,MIPF-C2-L2-P5,P5,,,,,,,,,,,
+MIPF-C2-L2,MIPF-C2-L2-P6,P6,,,,,,,,,,,
+MIPF-C2-L3,MIPF-C2-L3-P1,P1,,,,,,,,,,,
+MIPF-C2-L3,MIPF-C2-L3-P2,P2,,,,,,,,,,,
+MIPF-C2-L3,MIPF-C2-L3-P3,P3,,,,,,,,,,,
+MIPF-C2-L3,MIPF-C2-L3-P4,P4,,,,,,,,,,,
+MIPF-C2-L3,MIPF-C2-L3-P5,P5,,,,,,,,,,,
+MIPF-C2-L3,MIPF-C2-L3-P6,P6,,,,,,,,,,,
+MIPF-C2-L4,MIPF-C2-L4-P1,P1,,,,,,,,,,,
+MIPF-C2-L4,MIPF-C2-L4-P2,P2,,,,,,,,,,,
+MIPF-C2-L4,MIPF-C2-L4-P3,P3,,,,,,,,,,,
+MIPF-C2-L4,MIPF-C2-L4-P4,P4,,,,,,,,,,,
+MIPF-C2-L4,MIPF-C2-L4-P5,P5,,,,,,,,,,,
+MIPF-C2-L4,MIPF-C2-L4-P6,P6,,,,,,,,,,,
+MIPF-C3-L1,MIPF-C3-L1-P1,P1,,,,,,,,,,,
+MIPF-C3-L1,MIPF-C3-L1-P2,P2,,,,,,,,,,,
+MIPF-C3-L1,MIPF-C3-L1-P3,P3,,,,,,,,,,,
+MIPF-C3-L1,MIPF-C3-L1-P4,P4,,,,,,,,,,,
+MIPF-C3-L1,MIPF-C3-L1-P5,P5,,,,,,,,,,,
+MIPF-C3-L1,MIPF-C3-L1-P6,P6,,,,,,,,,,,
+MIPF-C3-L2,MIPF-C3-L2-P1,P1,,,,,,,,,,,
+MIPF-C3-L2,MIPF-C3-L2-P2,P2,,,,,,,,,,,
+MIPF-C3-L2,MIPF-C3-L2-P3,P3,,,,,,,,,,,
+MIPF-C3-L2,MIPF-C3-L2-P4,P4,,,,,,,,,,,
+MIPF-C3-L2,MIPF-C3-L2-P5,P5,,,,,,,,,,,
+MIPF-C3-L2,MIPF-C3-L2-P6,P6,,,,,,,,,,,
+MIPF-C3-L3,MIPF-C3-L3-P1,P1,,,,,,,,,,,
+MIPF-C3-L3,MIPF-C3-L3-P2,P2,,,,,,,,,,,
+MIPF-C3-L3,MIPF-C3-L3-P3,P3,,,,,,,,,,,
+MIPF-C3-L3,MIPF-C3-L3-P4,P4,,,,,,,,,,,
+MIPF-C3-L3,MIPF-C3-L3-P5,P5,,,,,,,,,,,
+MIPF-C3-L3,MIPF-C3-L3-P6,P6,,,,,,,,,,,
+MIPF-C3-L4,MIPF-C3-L4-P1,P1,,,,,,,,,,,
+MIPF-C3-L4,MIPF-C3-L4-P2,P2,,,,,,,,,,,
+MIPF-C3-L4,MIPF-C3-L4-P3,P3,,,,,,,,,,,
+MIPF-C3-L4,MIPF-C3-L4-P4,P4,,,,,,,,,,,
+MIPF-C3-L4,MIPF-C3-L4-P5,P5,,,,,,,,,,,
+MIPF-C3-L4,MIPF-C3-L4-P6,P6,,,,,,,,,,,
+MIPF-C4-L1,MIPF-C4-L1-P1,P1,,,,,,,,,,,
+MIPF-C4-L1,MIPF-C4-L1-P2,P2,,,,,,,,,,,
+MIPF-C4-L1,MIPF-C4-L1-P3,P3,,,,,,,,,,,
+MIPF-C4-L1,MIPF-C4-L1-P4,P4,,,,,,,,,,,
+MIPF-C4-L1,MIPF-C4-L1-P5,P5,,,,,,,,,,,
+MIPF-C4-L1,MIPF-C4-L1-P6,P6,,,,,,,,,,,
+MIPF-C4-L2,MIPF-C4-L2-P1,P1,,,,,,,,,,,
+MIPF-C4-L2,MIPF-C4-L2-P2,P2,,,,,,,,,,,
+MIPF-C4-L2,MIPF-C4-L2-P3,P3,,,,,,,,,,,
+MIPF-C4-L2,MIPF-C4-L2-P4,P4,,,,,,,,,,,
+MIPF-C4-L2,MIPF-C4-L2-P5,P5,,,,,,,,,,,
+MIPF-C4-L2,MIPF-C4-L2-P6,P6,,,,,,,,,,,
+MIPF-C4-L3,MIPF-C4-L3-P1,P1,,,,,,,,,,,
+MIPF-C4-L3,MIPF-C4-L3-P2,P2,,,,,,,,,,,
+MIPF-C4-L3,MIPF-C4-L3-P3,P3,,,,,,,,,,,
+MIPF-C4-L3,MIPF-C4-L3-P4,P4,,,,,,,,,,,
+MIPF-C4-L3,MIPF-C4-L3-P5,P5,,,,,,,,,,,
+MIPF-C4-L3,MIPF-C4-L3-P6,P6,,,,,,,,,,,
+MIPF-C4-L4,MIPF-C4-L4-P1,P1,,,,,,,,,,,
+MIPF-C4-L4,MIPF-C4-L4-P2,P2,,,,,,,,,,,
+MIPF-C4-L4,MIPF-C4-L4-P3,P3,,,,,,,,,,,
+MIPF-C4-L4,MIPF-C4-L4-P4,P4,,,,,,,,,,,
+MIPF-C4-L4,MIPF-C4-L4-P5,P5,,,,,,,,,,,
+MIPF-C4-L4,MIPF-C4-L4-P6,P6,,,,,,,,,,,
+MIPF-C5-L1,MIPF-C5-L1-P1,P1,,,,,,,,,,,
+MIPF-C5-L1,MIPF-C5-L1-P2,P2,,,,,,,,,,,
+MIPF-C5-L1,MIPF-C5-L1-P3,P3,,,,,,,,,,,
+MIPF-C5-L1,MIPF-C5-L1-P4,P4,,,,,,,,,,,
+MIPF-C5-L1,MIPF-C5-L1-P5,P5,,,,,,,,,,,
+MIPF-C5-L1,MIPF-C5-L1-P6,P6,,,,,,,,,,,
+MIPF-C5-L2,MIPF-C5-L2-P1,P1,,,,,,,,,,,
+MIPF-C5-L2,MIPF-C5-L2-P2,P2,,,,,,,,,,,
+MIPF-C5-L2,MIPF-C5-L2-P3,P3,,,,,,,,,,,
+MIPF-C5-L2,MIPF-C5-L2-P4,P4,,,,,,,,,,,
+MIPF-C5-L2,MIPF-C5-L2-P5,P5,,,,,,,,,,,
+MIPF-C5-L2,MIPF-C5-L2-P6,P6,,,,,,,,,,,
+MIPF-C5-L3,MIPF-C5-L3-P1,P1,,,,,,,,,,,
+MIPF-C5-L3,MIPF-C5-L3-P2,P2,,,,,,,,,,,
+MIPF-C5-L3,MIPF-C5-L3-P3,P3,,,,,,,,,,,
+MIPF-C5-L3,MIPF-C5-L3-P4,P4,,,,,,,,,,,
+MIPF-C5-L3,MIPF-C5-L3-P5,P5,,,,,,,,,,,
+MIPF-C5-L3,MIPF-C5-L3-P6,P6,,,,,,,,,,,
+MIPF-C5-L4,MIPF-C5-L4-P1,P1,,,,,,,,,,,
+MIPF-C5-L4,MIPF-C5-L4-P2,P2,,,,,,,,,,,
+MIPF-C5-L4,MIPF-C5-L4-P3,P3,,,,,,,,,,,
+MIPF-C5-L4,MIPF-C5-L4-P4,P4,,,,,,,,,,,
+MIPF-C5-L4,MIPF-C5-L4-P5,P5,,,,,,,,,,,
+MIPF-C5-L4,MIPF-C5-L4-P6,P6,,,,,,,,,,,
+MIPF-C6-L1,MIPF-C6-L1-P1,P1,,,,,,,,,,,
+MIPF-C6-L1,MIPF-C6-L1-P2,P2,,,,,,,,,,,
+MIPF-C6-L1,MIPF-C6-L1-P3,P3,,,,,,,,,,,
+MIPF-C6-L1,MIPF-C6-L1-P4,P4,,,,,,,,,,,
+MIPF-C6-L1,MIPF-C6-L1-P5,P5,,,,,,,,,,,
+MIPF-C6-L1,MIPF-C6-L1-P6,P6,,,,,,,,,,,
+MIPF-C6-L2,MIPF-C6-L2-P1,P1,,,,,,,,,,,
+MIPF-C6-L2,MIPF-C6-L2-P2,P2,,,,,,,,,,,
+MIPF-C6-L2,MIPF-C6-L2-P3,P3,,,,,,,,,,,
+MIPF-C6-L2,MIPF-C6-L2-P4,P4,,,,,,,,,,,
+MIPF-C6-L2,MIPF-C6-L2-P5,P5,,,,,,,,,,,
+MIPF-C6-L2,MIPF-C6-L2-P6,P6,,,,,,,,,,,
+MIPF-C6-L3,MIPF-C6-L3-P1,P1,,,,,,,,,,,
+MIPF-C6-L3,MIPF-C6-L3-P2,P2,,,,,,,,,,,
+MIPF-C6-L3,MIPF-C6-L3-P3,P3,,,,,,,,,,,
+MIPF-C6-L3,MIPF-C6-L3-P4,P4,,,,,,,,,,,
+MIPF-C6-L3,MIPF-C6-L3-P5,P5,,,,,,,,,,,
+MIPF-C6-L3,MIPF-C6-L3-P6,P6,,,,,,,,,,,
+MIPF-C6-L4,MIPF-C6-L4-P1,P1,,,,,,,,,,,
+MIPF-C6-L4,MIPF-C6-L4-P2,P2,,,,,,,,,,,
+MIPF-C6-L4,MIPF-C6-L4-P3,P3,,,,,,,,,,,
+MIPF-C6-L4,MIPF-C6-L4-P4,P4,,,,,,,,,,,
+MIPF-C6-L4,MIPF-C6-L4-P5,P5,,,,,,,,,,,
+MIPF-C6-L4,MIPF-C6-L4-P6,P6,,,,,,,,,,,

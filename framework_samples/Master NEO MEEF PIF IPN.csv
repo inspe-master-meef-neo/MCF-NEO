@@ -1,0 +1,1306 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,BCC-NEO,Master NEO MEEF PIF IPN,"<div class=""container text-center p-3"" style=""background: white;""><img src=""https://ismail-badache.pedaweb.univ-amu.fr/extranet/neo/assets/img/Neo-IPN-logo_yoyo_555.gif"" alt=""Logo NEO cr&eacute;&eacute; par Guillaume Martin-Taton"" width=""150"">
+<div class=""card"">
+<div class=""card-body"" style=""text-align: justify;"">
+<h2 style=""text-align: center;"">Master M&eacute;tiers de l&rsquo;Enseignement, de l&rsquo;&Eacute;ducation et de la Formation (MEEF)</h2>
+<h3 style=""text-align: center;"">Mention Pratiques et Ing&eacute;nierie de la Formation (PIF)</h3>
+<h4 style=""text-align: center;"">Parcours Ing&eacute;nierie P&eacute;dagogique Num&eacute;rique (IPN)</h4>
+<p style=""text-align: center;""><strong>NEO</strong></p>
+<hr>
+<pre style=""text-align: right;"">FORMATION &Agrave; DISTANCE</pre>
+<blockquote>
+<p>Une semaine de regroupement en pr&eacute;sentiel sur le campus de Saint-J&eacute;r&ocirc;me d&eacute;but octobre Conception participative en Approche Par Comp&eacute;tences.</p>
+<p>Ouverture du <strong>M1</strong> depuis <strong>2021</strong>, ouverture du <strong>M2</strong> depuis <strong>2022</strong>.</p>
+</blockquote>
+</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<div class=""card-footer text-muted small""><a href=""https://url.univ-amu.fr/parcours-neo"" target=""_blank"" rel=""noopener"">https://url.univ-amu.fr/parcours-neo</a></div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,practice,level,indicator"
+,BCC-NEO-C1,✊ ACCOMPAGNEMENT,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #eab819;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd>✊ <strong>COMP&Eacute;TENCE</strong></kbd><br><strong>ACCOMPAGNER </strong>la mise en oeuvre d'une p&eacute;dagogie num&eacute;rique innovante, qui int&egrave;gre les processus psychologiques des &eacute;tudiants et promeut une approche inclusive.</p>
+</div>
+</div>
+<div class=""alert alert-success"">
+<h1>📚 Connaissances</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>en </strong>...</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<table style=""border-collapse: collapse; width: 100%; height: 71.5938px; background-color: #000000; margin-left: auto; margin-right: auto; border: 3px none #000000;"" border=""1"">
+<tbody>
+<tr style=""height: 44.5938px;"">
+<th style=""border-color: #000000; text-align: right; border-width: 3px; padding: 3px;"" colspan=""4"">
+<h3 style=""text-align: center;""><span style=""font-size: 18pt; color: #ffffff;"">NIVEAU D'ACQUISITION</span></h3>
+</th>
+</tr>
+<tr style=""height: 27px;"">
+<td style=""border-color: #000000; text-align: center; background-color: #ffcfc9; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">0️⃣ <kbd><strong>Non acquis</strong></kbd>&nbsp;<code>❌❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #ffc8aa; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">1️⃣&nbsp;<kbd><strong>Insuffisant</strong></kbd>&nbsp;<code>❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #d4edbc; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">2️⃣ <kbd><strong>Acquis</strong></kbd>&nbsp;<code>✅</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #e6cff2; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p><span style=""font-size: 10pt;"">3️⃣&nbsp;<kbd><strong>Ma&icirc;tris&eacute;</strong></kbd>&nbsp;<code>✅✅</code></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,BCC-NEO-C2,✊ CONCEPTION,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #0066cc;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd>✊ <strong>COMP&Eacute;TENCE</strong></kbd><br><strong>CONCEVOIR</strong> des parcours, des formations et des ressources p&eacute;dagogiques multimodales, optimis&eacute;s et enrichis par l&rsquo;intelligence artificielle g&eacute;n&eacute;rative (IAg), dans le respect d&rsquo;uneapproche &eacute;thique et responsable.</p>
+</div>
+</div>
+<div class=""alert alert-success"">
+<h1>📚 Connaissances</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>en </strong>...</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<table style=""border-collapse: collapse; width: 100%; height: 71.5938px; background-color: #000000; margin-left: auto; margin-right: auto; border: 3px none #000000;"" border=""1"">
+<tbody>
+<tr style=""height: 44.5938px;"">
+<th style=""border-color: #000000; text-align: right; border-width: 3px; padding: 3px;"" colspan=""4"">
+<h3 style=""text-align: center;""><span style=""font-size: 18pt; color: #ffffff;"">NIVEAU D'ACQUISITION</span></h3>
+</th>
+</tr>
+<tr style=""height: 27px;"">
+<td style=""border-color: #000000; text-align: center; background-color: #ffcfc9; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">0️⃣ <kbd><strong>Non acquis</strong></kbd>&nbsp;<code>❌❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #ffc8aa; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">1️⃣&nbsp;<kbd><strong>Insuffisant</strong></kbd>&nbsp;<code>❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #d4edbc; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">2️⃣ <kbd><strong>Acquis</strong></kbd>&nbsp;<code>✅</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #e6cff2; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p><span style=""font-size: 10pt;"">3️⃣&nbsp;<kbd><strong>Ma&icirc;tris&eacute;</strong></kbd>&nbsp;<code>✅✅</code></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,BCC-NEO-C3,✊ PILOTAGE,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf2f44;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd>✊ <strong>COMP&Eacute;TENCE</strong></kbd><br><strong>PILOTER</strong> des projets d&rsquo;ing&eacute;nierie p&eacute;dagogique ax&eacute;s sur l'innovation num&eacute;rique, mobilisant connaissances et techniques dans un environnement professionnel, avec une vision strat&eacute;gique, communicante et collaborative.</p>
+</div>
+</div>
+<div class=""alert alert-success"">
+<h1>📚 Connaissances</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>en </strong>...</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<table style=""border-collapse: collapse; width: 100%; height: 71.5938px; background-color: #000000; margin-left: auto; margin-right: auto; border: 3px none #000000;"" border=""1"">
+<tbody>
+<tr style=""height: 44.5938px;"">
+<th style=""border-color: #000000; text-align: right; border-width: 3px; padding: 3px;"" colspan=""4"">
+<h3 style=""text-align: center;""><span style=""font-size: 18pt; color: #ffffff;"">NIVEAU D'ACQUISITION</span></h3>
+</th>
+</tr>
+<tr style=""height: 27px;"">
+<td style=""border-color: #000000; text-align: center; background-color: #ffcfc9; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">0️⃣ <kbd><strong>Non acquis</strong></kbd>&nbsp;<code>❌❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #ffc8aa; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">1️⃣&nbsp;<kbd><strong>Insuffisant</strong></kbd>&nbsp;<code>❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #d4edbc; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">2️⃣ <kbd><strong>Acquis</strong></kbd>&nbsp;<code>✅</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #e6cff2; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p><span style=""font-size: 10pt;"">3️⃣&nbsp;<kbd><strong>Ma&icirc;tris&eacute;</strong></kbd>&nbsp;<code>✅✅</code></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,BCC-NEO-C4,✊ EXPERTISE ET RECHERCHE,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #00693c;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd>✊ <strong>COMP&Eacute;TENCE</strong></kbd><br><strong>D&Eacute;VELOPPER</strong> l&rsquo;expertise pour agir en praticien r&eacute;flexif avec une d&eacute;marche scientifiquement&nbsp;construite.</p>
+</div>
+</div>
+<div class=""alert alert-success"">
+<h1>📚 Connaissances</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-success list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action""><strong>en </strong>...</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&nbsp;</li>
+</ol>
+</div>
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<table style=""border-collapse: collapse; width: 100%; height: 71.5938px; background-color: #000000; margin-left: auto; margin-right: auto; border: 3px none #000000;"" border=""1"">
+<tbody>
+<tr style=""height: 44.5938px;"">
+<th style=""border-color: #000000; text-align: right; border-width: 3px; padding: 3px;"" colspan=""4"">
+<h3 style=""text-align: center;""><span style=""font-size: 18pt; color: #ffffff;"">NIVEAU D'ACQUISITION</span></h3>
+</th>
+</tr>
+<tr style=""height: 27px;"">
+<td style=""border-color: #000000; text-align: center; background-color: #ffcfc9; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">0️⃣ <kbd><strong>Non acquis</strong></kbd>&nbsp;<code>❌❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #ffc8aa; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">1️⃣&nbsp;<kbd><strong>Insuffisant</strong></kbd>&nbsp;<code>❌</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #d4edbc; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p>&nbsp;</p>
+<p><span style=""font-size: 10pt;"">2️⃣ <kbd><strong>Acquis</strong></kbd>&nbsp;<code>✅</code></span></p>
+</td>
+<td style=""border-color: #000000; text-align: center; background-color: #e6cff2; border-width: 3px; padding: 3px; vertical-align: top;"">
+<p><span style=""font-size: 10pt;"">3️⃣&nbsp;<kbd><strong>Ma&icirc;tris&eacute;</strong></kbd>&nbsp;<code>✅✅</code></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1,BCC-NEO-C1-P1,🔨 Mobiliser les fondements théoriques et méthodologiques,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #eab819;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Mobilise </strong>les fondements th&eacute;oriques et m&eacute;thodologiques de l&rsquo;accompagnement de l&rsquo;apprentissage chez l'adulte.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1,BCC-NEO-C1-P2,🔨 Définir des dispositifs,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #eab819;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>D&eacute;finit </strong>des dispositifs p&eacute;dagogiques num&eacute;riques inclusifs et accessibles.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1,BCC-NEO-C1-P3,🔨 Identifier et accompagne les résistances au changement,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #eab819;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Identifie </strong>et <strong>accompagne</strong> les r&eacute;sistances au changement dans l'adoption de nouvelles pratiques p&eacute;dagogiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1,BCC-NEO-C1-P4,🔨 Élaborer un projet de formation,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #eab819;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>&Eacute;labore </strong>un projet de formation en lien avec l&rsquo;ing&eacute;nierie de formation et l&rsquo;approche par comp&eacute;tences (APC).</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1,BCC-NEO-C1-P5,🔨 Adopter une approche critique et éthique,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #eab819;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Adopte </strong>une approche critique et &eacute;thique dans l&rsquo;utilisation des technologies.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2,BCC-NEO-C2-P1,🔨 Scénariser des formations,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #0066cc;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Sc&eacute;narise</strong> des formations, <strong>planifie </strong>les ressources p&eacute;dagogiques et<strong> met en place </strong>des dispositifs d&rsquo;&eacute;valuation adapt&eacute;s.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2,BCC-NEO-C2-P2,🔨 Concevoir et diffuser des ressources,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #0066cc;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Con&ccedil;oit</strong> et <strong>diffuse </strong>des ressources p&eacute;dagogiques num&eacute;riques multimodales.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2,BCC-NEO-C2-P3,🔨 Créer des environnements de formation,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #0066cc;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Cr&eacute;&eacute; </strong>des environnements de formation hybrides et optimis&eacute;s.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2,BCC-NEO-C2-P4,🔨 Mobiliser des technologies,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #0066cc;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Mobilise </strong>des technologies &eacute;mergentes et l&rsquo;intelligence artificielle g&eacute;n&eacute;rative (IAg) dans le cadre de la transformation p&eacute;dagogique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2,BCC-NEO-C2-P5,🔨 Appliquer les fondamentaux de la conception,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #0066cc;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Applique</strong> les fondamentaux de la conception de sites web vitrines et/ou dynamiques et interactifs.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3,BCC-NEO-C3-P1,🔨 Mobiliser la gestion collaborative de projets,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf2f44;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Mobilise </strong>la gestion collaborative de projets d'e-formation et de transformation num&eacute;rique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3,BCC-NEO-C3-P2,🔨 Mener une modélisation et un cadrage de projets,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf2f44;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>M&egrave;ne </strong>une mod&eacute;lisation et un cadrage de projets de e-formation.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3,BCC-NEO-C3-P3,🔨 Utilise les technologies et outils de gestion de formation et des apprentissages,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf2f44;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Utilise </strong>les technologies et outils de gestion de formation et des apprentissages.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3,BCC-NEO-C3-P4,🔨 Communiquer efficacement en interne et en externe,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf2f44;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Communique </strong>efficacement en interne et en externe dans le cadre d&rsquo;une e-formation.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3,BCC-NEO-C3-P5,🔨 Adopter une approche réflexive et procéder à une autoévaluation constructive,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #cf2f44;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Adopte </strong>une approche r&eacute;flexive et <strong>proc&eacute;de </strong>&agrave; une auto&eacute;valuation constructive.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4,BCC-NEO-C4-P1,🔨 Mobiliser des savoirs de la recherche dans un domaine de travail ou d'études,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #00693c;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Mobilise </strong>des savoirs de la recherche dans un domaine de travail ou d'&eacute;tudes</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4,BCC-NEO-C4-P2,🔨 Approfondir une problématique par la mise en œuvre d’une démarche scientifique et méthodologique,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #00693c;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Approfondie </strong>une probl&eacute;matique par la mise en oeuvre d&rsquo;une d&eacute;marche scientifique et m&eacute;thodologique rigoureuse et critique</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4,BCC-NEO-C4-P3,"🔨 Restituer son travail de manière claire, rigoureuse et synthétique à l’oral comme à l’écrit","<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #00693c;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Restitue </strong>son travail de mani&egrave;re claire, rigoureuse et synth&eacute;tique &agrave; l&rsquo;oral comme &agrave; l&rsquo;&eacute;crit</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4,BCC-NEO-C4-P4,"🔨 Respecte les principes d'éthique, de déontologie, de responsabilité, d'intégrité","<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #00693c;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Respecte </strong>les principes d'&eacute;thique, de d&eacute;ontologie, de responsabilit&eacute; environnementale et d'int&eacute;grit&eacute; scientifique</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4,BCC-NEO-C4-P5,🔨 Exploiter de manière autonome les outils numériques adaptés aux secteurs de recherche du domaine,"<div class=""container"" style=""border: solid 4px black; padding-top: 1em; background: #00693c;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><kbd><strong>🔨 APPRENTISSAGE CRITIQUE (ATTENDU...)</strong></kbd><br><strong>Exploite </strong>de mani&egrave;re autonome les outils num&eacute;riques adapt&eacute;s aux secteurs de recherche du domaine</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P1,BCC-NEO-C1-P1-L1,BCC1.1 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P1,BCC-NEO-C1-P1-L2,BCC1.1 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P1,BCC-NEO-C1-P1-L3,BCC1.1 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P2,BCC-NEO-C1-P2-L1,BCC1.2 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P2,BCC-NEO-C1-P2-L2,BCC1.2 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P2,BCC-NEO-C1-P2-L3,BCC1.2 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P3,BCC-NEO-C1-P3-L1,BCC1.3 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P3,BCC-NEO-C1-P3-L2,BCC1.3 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P3,BCC-NEO-C1-P3-L3,BCC1.3 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P4,BCC-NEO-C1-P4-L1,BCC1.4 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P4,BCC-NEO-C1-P4-L2,BCC1.4 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P4,BCC-NEO-C1-P4-L3,BCC1.4 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P5,BCC-NEO-C1-P5-L1,BCC1.5 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P5,BCC-NEO-C1-P5-L2,BCC1.5 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C1-P5,BCC-NEO-C1-P5-L3,BCC1.5 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P1,BCC-NEO-C2-P1-L1,BCC2.1 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P1,BCC-NEO-C2-P1-L2,BCC2.1 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P1,BCC-NEO-C2-P1-L3,BCC2.1 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P1,BCC-NEO-C2-P1-L4,BCC2.1 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P2,BCC-NEO-C2-P2-L1,BCC2.2 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P2,BCC-NEO-C2-P2-L2,BCC2.2 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P2,BCC-NEO-C2-P2-L3,BCC2.2 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P2,BCC-NEO-C2-P2-L4,BCC2.2 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P3,BCC-NEO-C2-P3-L1,BCC2.3 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P3,BCC-NEO-C2-P3-L2,BCC2.3 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P3,BCC-NEO-C2-P3-L3,BCC2.3 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P3,BCC-NEO-C2-P3-L4,BCC2.3 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P4,BCC-NEO-C2-P4-L1,BCC2.4 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P4,BCC-NEO-C2-P4-L2,BCC2.4 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P4,BCC-NEO-C2-P4-L3,BCC2.4 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P4,BCC-NEO-C2-P4-L4,BCC2.4 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P5,BCC-NEO-C2-P5-L1,BCC2.5 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P5,BCC-NEO-C2-P5-L2,BCC2.5 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P5,BCC-NEO-C2-P5-L3,BCC2.5 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C2-P5,BCC-NEO-C2-P5-L4,BCC2.5 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P1,BCC-NEO-C3-P1-L1,BCC3.1 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P1,BCC-NEO-C3-P1-L2,BCC3.1 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P1,BCC-NEO-C3-P1-L3,BCC3.1 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P1,BCC-NEO-C3-P1-L4,BCC3.1 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P2,BCC-NEO-C3-P2-L1,BCC3.2 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P2,BCC-NEO-C3-P2-L2,BCC3.2 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P2,BCC-NEO-C3-P2-L3,BCC3.2 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P2,BCC-NEO-C3-P2-L4,BCC3.2 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P3,BCC-NEO-C3-P3-L1,BCC3.3 ⭐ Niveau 1️⃣,,,,,,,,,,,
+BCC-NEO-C3-P3,BCC-NEO-C3-P3-L2,BCC3.3 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P3,BCC-NEO-C3-P3-L3,BCC3.3 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P3,BCC-NEO-C3-P3-L4,BCC3.3 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P4,BCC-NEO-C3-P4-L1,BCC3.4 ⭐ Niveau 1️⃣,,,,,,,,,,,
+BCC-NEO-C3-P4,BCC-NEO-C3-P4-L2,BCC3.4 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P4,BCC-NEO-C3-P4-L3,BCC3.4 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P4,BCC-NEO-C3-P4-L4,BCC3.4 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P5,BCC-NEO-C3-P5-L1,BCC3.5 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P5,BCC-NEO-C3-P5-L2,BCC3.5 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P5,BCC-NEO-C3-P5-L3,BCC3.5 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C3-P5,BCC-NEO-C3-P5-L4,BCC3.5 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P1,BCC-NEO-C4-P1-L1,BCC4.1 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P1,BCC-NEO-C4-P1-L2,BCC4.1 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P1,BCC-NEO-C4-P1-L3,BCC4.1 ⭐⭐⭐ Niveau 3,,,,,,,,,,,
+BCC-NEO-C4-P1,BCC-NEO-C4-P1-L4,BCC4.1 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P2,BCC-NEO-C4-P2-L1,BCC4.2 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P2,BCC-NEO-C4-P2-L2,BCC4.2 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P2,BCC-NEO-C4-P2-L3,BCC4.2 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P2,BCC-NEO-C4-P2-L4,BCC4.2 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P3,BCC-NEO-C4-P3-L1,BCC4.3 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P3,BCC-NEO-C4-P3-L2,BCC4.3 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P3,BCC-NEO-C4-P3-L3,BCC4.3 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P3,BCC-NEO-C4-P3-L4,BCC4.3 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P4,BCC-NEO-C4-P4-L1,BCC4.4 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P4,BCC-NEO-C4-P4-L2,BCC4.4 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P4,BCC-NEO-C4-P4-L3,BCC4.4 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P4,BCC-NEO-C4-P4-L4,BCC4.4 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P5,BCC-NEO-C4-P5-L1,BCC4.5 ⭐ Niveau 1️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #d9d2e9;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Appliquer </strong>le cadre fix&eacute; pour exercer les comp&eacute;tences vis&eacute;es, sans &ecirc;tre encore en mesure d&rsquo;op&eacute;rer de fa&ccedil;on intentionnelle et r&eacute;currente des choix pertinents dans les situations professionnelles rencontr&eacute;es. Les principaux &eacute;l&eacute;ments sont appr&eacute;hend&eacute;s, mais un soutien ou un conseil demeure n&eacute;cessaire pour construire l&rsquo;enseignement ou ajuster le comportement de mani&egrave;re autonome et responsable.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P5,BCC-NEO-C4-P5-L2,BCC4.5 ⭐⭐ Niveau 2️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #b4a7d6;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Ma&icirc;triser </strong>suffisamment les bases des comp&eacute;tences vis&eacute;es pour agir de fa&ccedil;on autonome, anticiper et effectuer des choix professionnels appropri&eacute;s. La pertinence du travail est rep&eacute;r&eacute;e dans la plupart des situations rencontr&eacute;es, ainsi que la d&eacute;ontologie et la capacit&eacute; d&rsquo;auto&eacute;valuation pour am&eacute;liorer la pratique.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P5,BCC-NEO-C4-P5-L3,BCC4.5 ⭐⭐⭐ Niveau 3️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #8e7cc3;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>Exercer </strong>les comp&eacute;tences vis&eacute;es de mani&egrave;re combin&eacute;e et efficace dans la dur&eacute;e. Les choix pertinents sont op&eacute;r&eacute;s et mis en &oelig;uvre de fa&ccedil;on adapt&eacute;e aux situations professionnelles rencontr&eacute;es, y compris en contexte impr&eacute;visible.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+BCC-NEO-C4-P5,BCC-NEO-C4-P5-L4,BCC4.5 ⭐⭐⭐⭐ Niveau 4️⃣,"<div class=""container"" style=""border: dashed 2px black; padding-top: 1em; background: #674ea7;"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""card mb-3"">
+<div class=""card-body"" style=""text-align: justify;"">
+<p><strong>D&eacute;montrer </strong>la capacit&eacute; &agrave; mobiliser les comp&eacute;tences vis&eacute;es de mani&egrave;re interreli&eacute;e pour appr&eacute;hender et g&eacute;rer un contexte professionnel complexe, tout en faisant preuve d&rsquo;ing&eacute;niosit&eacute; p&eacute;dagogique afin de faire &eacute;voluer le cadre dans le respect des principes &eacute;thiques.</p>
+</div>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
